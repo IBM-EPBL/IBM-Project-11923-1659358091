@@ -1,5 +1,7 @@
 # IBM-Project-11923-1659358091
 Analytics for Hospitals' Health-Care Data
+
+
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked are as to focus
 which is absolutely Healthcare Data Management. While healthcare management has various
 use cases for using data science, patient length of stay is one critical parameter to observe and
